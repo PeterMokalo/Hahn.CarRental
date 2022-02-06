@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\bin\Debug\net5.0\Hahn.CarRental.Domain.deps.json
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\bin\Debug\net5.0\Hahn.CarRental.Domain.runtimeconfig.json
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\bin\Debug\net5.0\Hahn.CarRental.Domain.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\bin\Debug\net5.0\Hahn.CarRental.Domain.dll
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\bin\Debug\net5.0\ref\Hahn.CarRental.Domain.dll
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\bin\Debug\net5.0\Hahn.CarRental.Domain.pdb
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\obj\Debug\net5.0\Hahn.CarRental.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\obj\Debug\net5.0\Hahn.CarRental.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\obj\Debug\net5.0\Hahn.CarRental.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\obj\Debug\net5.0\Hahn.CarRental.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\obj\Debug\net5.0\Hahn.CarRental.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\obj\Debug\net5.0\Hahn.CarRental.Domain.dll
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\obj\Debug\net5.0\ref\Hahn.CarRental.Domain.dll
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\obj\Debug\net5.0\Hahn.CarRental.Domain.pdb
+C:\Users\Admin\source\repos\Hahn.CarRental\src\Core\Hahn.CarRental.Domain\obj\Debug\net5.0\Hahn.CarRental.Domain.genruntimeconfig.cache

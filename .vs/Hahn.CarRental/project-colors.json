@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70ef348c-f9f6-42de-bc8d-6522609dc9c9": {
+      "ProjectGuid": "70ef348c-f9f6-42de-bc8d-6522609dc9c9",
+      "DisplayName": "Hahn.CarRental.API",
+      "ColorIndex": 0
+    },
+    "4f287830-0ec6-4594-8362-33c644ddf51c": {
+      "ProjectGuid": "4f287830-0ec6-4594-8362-33c644ddf51c",
+      "DisplayName": "Hahn.CarRental.Infrastructure.Data",
+      "ColorIndex": 1
+    },
+    "51deb357-94e3-4b32-a4f8-7b19b0255a67": {
+      "ProjectGuid": "51deb357-94e3-4b32-a4f8-7b19b0255a67",
+      "DisplayName": "Hahn.CarRental.Domain",
+      "ColorIndex": 2
+    },
+    "ff134cc4-37b2-4602-88b9-6bf85094b5e1": {
+      "ProjectGuid": "ff134cc4-37b2-4602-88b9-6bf85094b5e1",
+      "DisplayName": "Hahn.CarRental.Application",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
